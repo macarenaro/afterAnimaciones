@@ -1,0 +1,14 @@
+.header {
+    background-color: aqua;
+    .menu {
+        ul {
+            margin: 10px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+        img {
+            width: 100%;
+        }
+    }
+}
